@@ -1,4 +1,6 @@
-# Ziad Ismael
+<p align="center">
+    <img src="assets/output-onlinegiftools-ezgif.com-loop-count.gif" />
+</p>
 
 **```Binary Architect 👷🏼```**
 
