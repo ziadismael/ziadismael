@@ -17,22 +17,21 @@ My journey in tech is driven by curiosity and a commitment to continuous learnin
 
 ### 🧰 Languages and Technologies
 
-<img align="left" alt="Node.js" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-<img align="left" alt="Express.js" width="50px" style="padding-right:10px;" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" />
-<img align="left" alt="MongoDB" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-<img align="left" alt="PostgreSQL" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
-<img align="left" alt="React" width="55px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/react/original.svg">
-<img align="left" alt="Tailwind CSS" width="55px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
-<img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
-<img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
-<img align="left" alt="Python" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="HTML" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-<img align="left" alt="CSS" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="Node.js" width="55px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+<img align="left" alt="Express.js" width="45px" style="padding:5px;" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" />
+<img align="left" alt="MongoDB" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" alt="PostgreSQL" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="left" alt="React" width="50px" style="padding:5px;" src="https://devicon-website.vercel.app/api/react/original.svg">
+<img align="left" alt="Tailwind CSS" width="50px" style="padding:5px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
+<img align="left" alt="Git" width="45px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Bash" width="45px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
+<img align="left" alt="Java" width="45px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="45px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="Python" width="45px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="JavaScript" width="45px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="HTML" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="50px" style="padding:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 
-          
-          
-          
+
 <br> <br> <br> <hr>
+
