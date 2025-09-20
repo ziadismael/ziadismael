@@ -21,6 +21,8 @@ My journey in tech is driven by curiosity and a commitment to continuous learnin
 <img align="left" alt="Express.js" width="50px" style="padding-right:10px;" src="https://icongr.am/devicon/express-original.svg?size=128&color=ffffff" />
 <img align="left" alt="MongoDB" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <img align="left" alt="PostgreSQL" width="55px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="left" alt="React" width="55px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/react/original.svg">
+<img align="left" alt="Tailwind CSS" width="55px" style="padding-right:10px;" src="https://devicon-website.vercel.app/api/tailwindcss/plain.svg">
 <img align="left" alt="Git" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />
 <img align="left" alt="Java" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
